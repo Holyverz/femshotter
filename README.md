@@ -1,0 +1,2 @@
+# femshotter
+Screenshotter for wayland
